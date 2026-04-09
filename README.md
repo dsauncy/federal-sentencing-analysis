@@ -2,15 +2,14 @@
 
 ## Overview
 Federal sentencing guidelines are intended to create a consistent sentencing structure
-nationwide (United States Sentencing Commission, n.d.), such that defendants under
-identical legal factors would receive relatively similar outcomes regardless of
-geographic location. For example, a defendant with no prior criminal history who
-pleads guilty to a federal offense in Washington should, in theory, receive a sentence
-comparable to that of a similarly situated defendant in Florida pleading guilty to the
-same federal offense. However, concerns about the United States’s judicial consistency
-remain persistent, suggesting that certain geographic areas are much harsher than
-others, with documented research supporting this narrative (Miller, 2025). This
-project investigates whether geographic inconsistencies exist that undermine the
+nationwide, such that defendants under identical legal factors would receive relatively
+similar outcomes regardless of geographic location. For example, a defendant with no
+prior criminal history who pleads guilty to a federal offense in Washington should, in
+theory, receive a sentence comparable to that of a similarly situated defendant in
+Florida pleading guilty to the same federal offense. However, concerns about the United
+States’s judicial consistency remain persistent, suggesting that certain geographic
+areas are much harsher than others, with documented research supporting this narrative.
+This project investigates whether geographic inconsistencies exist that undermine the
 uniformity of the federal guidelines, what areas are most prone to deviation, and
 whether the results can serve as a meaningful predictor of sentencing outcomes.
 
