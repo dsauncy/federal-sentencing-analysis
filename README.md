@@ -48,4 +48,4 @@ Jupyter Notebook · Microsoft Excel · Microsoft Word
 
 ## Repository Contents
 - `apples_to_apples.ipynb` — Full analysis notebook
-- Data must be downloaded separately from the USSC link above
+- `Apples to Apples.docx` — Analysis report 
